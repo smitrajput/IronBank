@@ -8,11 +8,11 @@ const Nav = () => {
 	return (
     <div className="container">
 		<div className="row nav-header">
-			<Link to="/"><span className="nav-logo" role="img" aria-label="StakeTree Logo">🌲</span><span className="nav-logo-text">StakeTree</span></Link>
+			<Link to="/">
+			<span className="nav-logo-text" centred>Iron Bank of Etheros</span></Link>
       <Web3Hub />
       <div className="right-nav-links">
-        <Link to="/faq">FAQ</Link> | 
-        <Link to="/dev">Dev Fund</Link>
+        <Link to="/dev"></Link>
       </div>
 
 
