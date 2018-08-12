@@ -1,7 +1,7 @@
 # Iron Bank of Etheros
 A gamified educational tool that teaches concepts of the Eth-space, while allowing to have loads of fun.
 
-##Steps to run it on your machine
+## Steps to run it on your machine
 ```
 npm install
 ```
