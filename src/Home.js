@@ -110,7 +110,7 @@ class Home extends Component {
         </div>
 
         <hr />
-        
+
         <h4>Projects</h4>
 
         <div className="row content">
@@ -162,8 +162,8 @@ class Home extends Component {
           </div>
           <div className="four columns">
             <div className="featurette">
-              <h4>Wildfire for Cersie</h4>
-              <p>For rapid, unscheduled, disassembly of her Tower</p>
+              <h4>Grammar for A Man</h4>
+              <p>Because A Man doesn't know it!</p>
               <button className="btn custom-value-button" onClick={this.fund.bind(this, customAmount)}>Fund It!</button>
               <input step="0.1" min="0.01" placeholder="Custom amount?" className="custom-value-input" type="number" onChange={this.handleCustomAmount.bind(this)} />
 
